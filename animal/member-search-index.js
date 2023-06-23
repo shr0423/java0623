@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.sp.project0623.animal","c":"Duck","l":"Duck()","url":"%3Cinit%3E()"},{"p":"com.sp.project0623.animal","c":"Duck","l":"fly()"}]
